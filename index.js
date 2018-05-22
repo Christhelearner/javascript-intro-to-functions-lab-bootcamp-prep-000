@@ -19,6 +19,6 @@ function sayHiToGrandma(word){
   else if(word === 'HELLO' && word === toUpperCase  )
     return "YES INDEED"
   }
-  else if(word === "I love you, Grandma.")
+  else(word === "I love you, Grandma.")
    return "I love you too."
 }
